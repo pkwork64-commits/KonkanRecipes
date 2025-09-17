@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, Plus } from './Icons';
+import { X } from './Icons';
 
 const RecipeForm = ({ 
   showForm, 
